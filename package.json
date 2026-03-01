@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": " https://dishajain280.github.io/Online-Store-by-Disha/",
+  "homepage": "https://dishajain280.github.io/Online-Store-by-Disha/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
