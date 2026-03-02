@@ -7,7 +7,7 @@ const products = [
     name: "MacBook Pro",
     price: 250000,
     image:
-      "https://mundobytes.com/wp-content/uploads/2025/02/macbook-pro-m5-2.jpg",
+      "https://th.bing.com/th?id=OPAC.%2bUlplK%2fQebQnkw474C474&w=220&h=220&c=17&o=5&dpr=1.3&pid=21.1",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const products = [
     name: "Headphones Sony WH-1000XM4",
     price: 3000,
     image:
-      "https://miro.medium.com/v2/resize:fit:1400/1*CevtnfvmG5mncYvJdXBHOQ@2x.jpeg",
+      "https://tse2.mm.bing.net/th/id/OIP.wa0wbAadQ4mZ_9q2ku6NmAHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3",
   },
 ];
 
